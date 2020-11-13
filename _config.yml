@@ -9,7 +9,7 @@ name: Caley Brock
 description: Software Developer
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: ./images/caley.png
+avatar: ./images/caley.jpg
 
 #
 # Flags below are optional
@@ -18,7 +18,7 @@ avatar: ./images/caley.png
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: caleybrock7@gmail.com
+  email:
   facebook:
   flickr:
   github: caleybrock
